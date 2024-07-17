@@ -15,7 +15,7 @@
 		<a>FisioExam</a>
 	</li>
 	<li>
-		<a>NEP TERRA Researcher at UFSM</a>
+		<a>NEP TERRA Researcher at UFSM (Federal University of Santa Maria)</a>
 	</li>
 	
 	
