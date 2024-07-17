@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1>Hello World!</h1>
+<p>Hi, my name is Stefan, I'm a brazilian full-stack developer with a Master's Degree in Computer Science.</p>
 
-<!--
-**SGSchneider/SGSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2> 🖥️ Currently working on:</h2>
+<ul>
+	<li>
+		<a href="https://kazami.xyz">Kazami</a>
+	</li>
+	<li>
+		<a href="https://facas4patas.com.br">Facas4Patas</a>
+	</li>
+	<li>
+		<a>FisioExam</a>
+	</li>
+	<li>
+		<a>NEP TERRA Researcher at UFSM</a>
+	</li>
+	
+	
+	
+</ul>
+	
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills:</h2>
+
+<h3>Programming Languages</h3>
+	
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,tailwind,ts,lua" />
+  </a>
+</p>
+
+<h3>IDE's</h3>
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea" />
+  </a>
+</p>
+
+<h3>API's, Databases and Librarys</h3>
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,sqlite,react,nextjs,ts,reactivex,mysql,nodejs" />
+  </a>
+</p>
+
+<h3>Other Stuff:</h3>
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,discord,bots,raspberrypi," />
+  </a>
+</p>
+
+<hr>
+
+<h2>Social Profiles</h2>
+
+<p align="start">
+  <a href="https://x.com/_S_Schneider_">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+<p align="start">
+  <a href="https://www.linkedin.com/in/stefan-schneider-6765ba147/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<hr>
