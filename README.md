@@ -46,7 +46,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,sqlite,react,nextjs,ts,reactivex,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=firebase,sqlite,react,nextjs,reactivex,mysql,nodejs" />
   </a>
 </p>
 
