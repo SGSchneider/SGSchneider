@@ -9,9 +9,6 @@
 		<a href="https://kazami.xyz">Kazami</a>
 	</li>
 	<li>
-		<a href="https://facas4patas.com.br">Facas4Patas</a>
-	</li>
-	<li>
 		<a>FisioExam</a>
 	</li>
 	<li>
