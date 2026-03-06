@@ -1,5 +1,5 @@
 <h1>Hello World!</h1>
-<p>Hi, my name is Stefan, I'm a brazilian full-stack developer with a Master's Degree in Computer Science.</p>
+<p>Hi, my name is Stefan, I'm a brazilian full-stack developer and teacher with a Master's Degree in Computer Science.</p>
 
 <hr>
 
