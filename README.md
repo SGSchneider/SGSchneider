@@ -9,10 +9,7 @@
 		<a href="https://kazami.xyz">Kazami</a>
 	</li>
 	<li>
-		<a>FisioExam</a>
-	</li>
-	<li>
-		<a>NEP TERRA Researcher at UFSM (Federal University of Santa Maria)</a>
+		<a>Teacher at Cebratec 👨‍🏫</a>
 	</li>
 	
 	
