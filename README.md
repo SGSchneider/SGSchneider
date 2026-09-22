@@ -11,6 +11,9 @@
 	<li>
 		<a>Teacher at Cebratec 👨‍🏫</a>
 	</li>
+	<li>
+		<a>Teacher at Escola Estadual De Educação Básica Tito Ferrari 👨‍🏫</a>
+	</li>
 	
 	
 	
